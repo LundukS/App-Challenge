@@ -1,0 +1,1 @@
+var word = document.getElementById("myWord").nodeValue;

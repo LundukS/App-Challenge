@@ -1,0 +1,25 @@
+#container{
+    padding-left: 100px;
+}
+
+#header{
+    font-family:cursive;
+    font-size: xx-large;
+    background-color: black;
+    color:white;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+#container{
+    font-family: serif;
+    font-size: medium;
+}
+
+#myWord{
+    padding-left: 30px;
+    margin-left: 20px;
+    border-radius: 45px;
+    background-color: cornsilk;
+    margin-bottom: 40px;
+}

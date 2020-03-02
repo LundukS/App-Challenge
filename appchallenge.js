@@ -1,1 +1,5 @@
-var word = document.getElementById("myWord").nodeValue;
+function count(){
+var word = document.getElementById("myWord");
+window.alert
+event.preventDefault;
+}
